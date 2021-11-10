@@ -1,0 +1,38 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+body {
+	background: #558868;
+	color: #fff;
+	font-family: "Lato", sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.test h1 {
+	text-align: center;
+	color: black;
+}
+.test p {
+	text-align: center;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 768px;
+	text-align: center;
+}
+.container h1 {
+	display: inline-block;
+	font-size: 36px;
+}
+.container span {
+	color: #f13820;
+	font-size: 36px;
+	margin-left: 10px;
+}
+
+/*# sourceMappingURL=/style.97fcb138.css.map */
